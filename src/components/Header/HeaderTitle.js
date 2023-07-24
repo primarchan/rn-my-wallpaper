@@ -1,9 +1,16 @@
 import React from 'react';
-import { Typograph } from '../Typography';
-export class HeaderTitle extends React.Component { 
-    render(){
-        return (
-            <Typograph fontSize={18}>{this.props.title}</Typograph> 
-        )
-    }
+import { Typography } from '../Typography';
+
+export const HeaderTitle = (props)=>{
+
+    return (
+        <Typography fontSize={18}>{props.title}</Typography>
+    )
 }
+// export class HeaderTitle extends React.Component{
+//     render(){
+//         return (
+//             <Typography fontSize={18}>{this.props.title}</Typography>
+//         )
+//     }
+// }

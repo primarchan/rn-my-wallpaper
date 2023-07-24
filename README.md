@@ -7,3 +7,4 @@
 - `npm install @react-navigation/native-stack --save`
 - `npm install @react-navigation/bottom-tabs --save`
 - `npm install @expo/vector-icons prop-types --save`
+- `npm i redux react-redux`

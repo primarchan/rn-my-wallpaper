@@ -7,4 +7,6 @@
 - `npm install @react-navigation/native-stack --save`
 - `npm install @react-navigation/bottom-tabs --save`
 - `npm install @expo/vector-icons prop-types --save`
-- `npm i redux react-redux`
+- `npx expo install expo-file-system`
+- `npx expo install expo-media-library`
+- `npm install --save redux redux-logger react-redux`

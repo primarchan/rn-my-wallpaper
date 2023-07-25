@@ -1,6 +1,6 @@
 # 모바일 배경화면 앱 프로젝트
 
-## Command Line
+## Installation
 
 - `npm install @react-navigation/native`
 - `npm install @react-navigation/native --save`
